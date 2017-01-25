@@ -1,0 +1,50 @@
+/*------------BANNER----------*/
+.banner{
+  display: flex;
+  overflow:hidden;
+  border-bottom: 1px solid #e5e5e5;
+}
+.banner h2, .item_index0 .text small, .item_index1 .text small{
+}
+.item_index2 .text_bottom{
+  right: 41%;
+}
+.text_bottom{
+  top: 72%;
+  right: 23%;
+}
+.left, .right{
+  flex:1 49%;
+}
+.right{
+  display: flex;
+}
+.banner_item{
+  flex: 1 49%;
+  position: relative;
+
+}
+.banner_item, .banner_item img, .banner_img{
+  width: 100%;
+  height: 100%;
+}
+ .banner_img{
+  width: 100%;
+  height: 100%;
+}
+.first_banner .text{
+  top: 16%;
+  right: 15%;
+}
+.second_banner .text{
+  top: 14%;
+  right: 16%;
+}
+.first_banner{
+  border-right: 1px solid #e5e5e5;
+}
+@media (min-width:375px) and (max-width:768px){
+.right{
+  display: none;
+}
+}

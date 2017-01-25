@@ -1,0 +1,23 @@
+Bag
+.Bag {
+  font-size: 12px;
+  font-family: "Roboto";
+  color: rgb(0, 0, 0);
+  line-height: 5.417;
+  text-align: left;
+  position: absolute;
+  left: 1218.937px;
+  top: 70.49px;
+  z-index: 56;
+}
+.E_mail_sing_up {
+  font-size: 12px;
+  font-family: "Roboto";
+  color: rgb(0, 0, 0);
+  line-height: 5.417;
+  text-align: left;
+  position: absolute;
+  left: 1056.937px;
+  top: 69.49px;
+  z-index: 55;
+}

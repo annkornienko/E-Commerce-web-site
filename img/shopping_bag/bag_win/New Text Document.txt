@@ -1,0 +1,101 @@
+.Color:_Green_Size:_UK_19_Quantity:_1 {
+  font-size: 12px;
+  font-family: "Roboto";
+  color: rgb(0, 0, 0);
+  line-height: 2;
+  text-align: left;
+  position: absolute;
+  left: 916.937px;
+  top: 711.992px;
+  width: 69px;
+  height: 61px;
+  z-index: 91;
+}
+
+.Turtle_Neck_Jumper_in_Rib {
+  font-size: 14px;
+  font-family: "Roboto";
+  color: rgb(241, 74, 88);
+  font-weight: bold;
+  line-height: 1.714;
+  text-align: left;
+  position: absolute;
+  left: 916.795px;
+  top: 676.252px;
+  z-index: 90;
+}
+
+.Remove_item {
+  font-size: 13px;
+  font-family: "OpenSans";
+  color: rgb(241, 74, 88);
+  font-weight: bold;
+  line-height: 5;
+  text-align: left;
+  position: absolute;
+  left: 915.938px;
+  top: 773px;
+  z-index: 88;
+}
+.View_item {
+  font-size: 22px;
+  font-family: "OpenSans";
+  color: rgb(241, 74, 88);
+  font-weight: bold;
+  line-height: 2.955;
+  text-align: center;
+  position: absolute;
+  left: 714.938px;
+  top: 781.495px;
+  z-index: 87;
+}
+.Buy_now {
+  font-size: 24px;
+  font-family: "OpenSans";
+  color: rgb(0, 0, 0);
+  font-weight: bold;
+  line-height: 2.708;
+  text-align: center;
+  position: absolute;
+  left: 596.938px;
+  top: 1242.456px;
+  z-index: 49;
+}
+
+ 
+.Empty_bag {
+  font-size: 13px;
+  font-family: "Roboto";
+  color: rgb(0, 0, 0);
+  font-weight: bold;
+  line-height: 5;
+  text-align: left;
+  position: absolute;
+  left: 89.938px;
+  top: 1242.057px;
+  z-index: 46;
+}
+
+.Total_Cost {
+  font-size: 12px;
+  font-family: "Roboto";
+  color: rgb(0, 0, 0);
+  line-height: 5.417;
+  text-align: right;
+  position: absolute;
+  left: 1151.384px;
+  top: 1170.498px;
+  z-index: 45;
+}
+.You_ve_qualified_for_Free_UK_Next_Day_Delivery_ {
+  font-size: 12px;
+  font-family: "OpenSans";
+  color: rgb(0, 0, 0);
+  font-weight: bold;
+  line-height: 5.417;
+  text-align: center;
+  position: absolute;
+  left: 295.492px;
+  top: 1154.49px;
+  z-index: 42;
+}

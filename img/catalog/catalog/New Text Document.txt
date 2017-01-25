@@ -1,0 +1,129 @@
+.Show_more {
+  font-size: 24px;
+  font-family: "OpenSans";
+  color: rgb(241, 74, 88);
+  font-weight: bold;
+  line-height: 2.708;
+  text-align: center;
+  position: absolute;
+  left: 581.274px;
+  top: 2026.504px;
+  z-index: 157;
+}
+
+.£85_75 {
+  font-size: 14px;
+  font-family: "Roboto";
+  color: rgb(0, 0, 0);
+  line-height: 4.643;
+  text-align: center;
+  position: absolute;
+  left: 1098.535px;
+  top: 1886.999px;
+  z-index: 153;
+}
+
+.Boyfriend_T_Shirt_with_Bohemian_Print {
+  font-size: 14px;
+  font-family: "Roboto";
+  color: rgb(0, 0, 0);
+  font-weight: bold;
+  line-height: 1.714;
+  text-align: center;
+  position: absolute;
+  left: 1045.937px;
+  top: 1873.252px;
+  z-index: 152;
+}
+
+.View_item {
+  font-size: 22px;
+  font-family: "OpenSans";
+  color: rgb(241, 74, 88);
+  font-weight: bold;
+  line-height: 2.955;
+  text-align: center;
+  position: absolute;
+  left: 749.938px;
+  top: 1605.495px;
+  z-index: 147;
+}
+
+.Only_Busted_Knee_Jean {
+  font-size: 14px;
+  font-family: "Roboto";
+  color: rgb(241, 74, 88);
+  font-weight: bold;
+  line-height: 1.714;
+  text-align: center;
+  position: absolute;
+  left: 728.937px;
+  top: 1873.252px;
+  z-index: 143;
+}
+
+.New {
+  font-size: 16px;
+  font-family: "Times New Roman";
+  color: rgb(117, 117, 117);
+  font-style: italic;
+  line-height: 1.625;
+  text-align: left;
+  position: absolute;
+  left: 501.791px;
+  top: 1906px;
+  z-index: 137;
+}
+
+._25_ {
+  font-size: 16px;
+  font-family: "Times New Roman";
+  color: rgb(117, 117, 117);
+  font-style: italic;
+  line-height: 1.625;
+  text-align: center;
+  position: absolute;
+  left: 476px;
+  top: 1366px;
+  z-index: 112;
+}
+
+.£120_00 {
+  font-size: 14px;
+  font-family: "Roboto";
+  color: rgb(117, 117, 117);
+  line-height: 4.643;
+  text-align: center;
+  position: absolute;
+  left: 419.535px;
+  top: 1346.999px;
+  z-index: 110;
+}
+
+.More_colours {
+  font-size: 16px;
+  font-family: "Times New Roman";
+  color: rgb(117, 117, 117);
+  font-style: italic;
+  line-height: 1.625;
+  text-align: left;
+  position: absolute;
+  left: 137.406px;
+  top: 1341.5px;
+  z-index: 100;
+}
+
+.This_offer_is_valid_in_store_and_online__Prices {
+  font-size: 16px;
+  font-family: "Times New Roman";
+  color: rgb(0, 0, 0);
+  font-style: italic;
+  line-height: 1.875;
+  text-align: center;
+  position: absolute;
+  left: 203.44px;
+  top: 840.703px;
+  width: 866px;
+  height: 16px;
+  z-index: 92;
+}

@@ -1,0 +1,23 @@
+.Store_locator_Gift_cards_Size_guide_About_us_Su {
+  font-size: 14px;
+  font-family: "Roboto";
+  color: rgb(0, 0, 0);
+  line-height: 2.857;
+  text-align: left;
+  position: absolute;
+  left: 60.937px;
+  top: 2494.251px;
+  z-index: 34;
+}
+.Quick_Links {
+  font-size: 16px;
+  font-family: "OpenSans";
+  color: rgb(0, 0, 0);
+  font-weight: bold;
+  line-height: 4.063;
+  text-align: left;
+  position: absolute;
+  left: 59.937px;
+  top: 2442.042px;
+  z-index: 33;
+}

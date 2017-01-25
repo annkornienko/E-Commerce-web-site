@@ -1,0 +1,14 @@
+.We_have_our_own_delivery_service_which_operates {
+  font-size: 16px;
+  font-family: "Times New Roman";
+  color: rgb(117, 117, 117);
+  font-style: italic;
+  line-height: 1.875;
+  text-align: left;
+  position: absolute;
+  left: 709px;
+  top: 2560.703px;
+  width: 300px;
+  height: 76px;
+  z-index: 22;
+}

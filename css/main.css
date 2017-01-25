@@ -1,0 +1,200 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:400,700');
+@import url('https://fonts.googleapis.com/css?family=Roboto:100i,300,400,700');
+@import url('https://fonts.googleapis.com/css?family=Crimson+Text:400,400i,700');
+/*-----------------RESET SOME HTML ELEMENT-------------------*/
+html, body, ul, li, h1, h2, h3, h4, h5, h6, img, p,a{
+  font-family: "Roboto", Arial,sans-serif;
+  /*font-size: 14px;*/
+  margin: 0;
+  padding: 0;
+  color:black;
+  /*line-height: 2.85;*/
+}
+h1, h2, h3, h4, h5, h6{
+  /*font-family: "OpenSans";*/
+}
+h1{
+  font-size: 26px;
+}
+h3{
+  font-family: "Open Sans";
+  font-size: 18px;
+}
+h4{
+  font-family: "Roboto";
+  font-size: 14px;
+}
+
+span,p,li{
+  font-size: 16px;
+  font-family: "Open Sans";
+}
+a{
+  text-decoration: none;
+  font-size: 14px;
+  color: rgb(0, 0, 0);
+}
+ul li{
+  list-style: none;
+}
+img{
+  /*vertical-align: bottom;*/
+}
+dl{
+  display: flex;
+  margin-bottom: 25px;
+}
+dt,dd{
+  font-size: 12px;
+  font-family: "Roboto";
+  color: rgb(0, 0, 0);
+}
+
+.container{
+  max-width: 1180px;
+  margin: 0 auto;
+}
+.text{
+  position: absolute;
+  top: 16%;
+  right: 16%;
+  text-align: center;
+}
+.text h2{
+  font-size: 28px;
+  font-weight: bold;
+  letter-spacing: 1.5px;
+  color: rgb(255,255,255);
+
+}
+.text small{
+  display: block;
+  font-size: 16px;
+  font-family: "Crimson Text";
+  color: rgb(117, 117, 117);
+  font-style: italic;
+  line-height: 2;
+}
+
+.btn{
+  border: 1px solid #e5e5e5;
+  display: inline-block;
+  cursor: pointer;
+}
+.btn a{
+  padding: 15px 7vw;
+  /*padding: 0 7vw;*/
+  font-size: 24px;
+  font-family: "Open Sans";
+  /*line-height: 69px;*/
+  display: inline-block;
+}
+.btn span{
+  cursor: pointer;
+  padding: 0 7vw;
+  font-size: 24px;
+  font-family: "Open Sans";
+  line-height: 69px;
+}
+.btn_center{
+  position: relative;
+  left: calc(50% - 172px);
+  margin-top: 98px;
+}
+.price span{
+  font-size: 14px;
+  font-family: "Roboto";
+
+}
+/*helper in css*/
+#red_color{
+  color: rgb(241, 74, 88);
+  font-weight: bold;
+}
+#cursive{
+  font-size: 16px;
+  font-family: "Crimson Text";
+  color: rgb(0, 0, 0);
+  font-style: italic;
+  color: rgb(117, 117, 117);
+}
+
+
+.list_items {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+.item_wrapper img{
+  /*margin-bottom: 40px;*/
+}
+.item_text{
+  text-align: center;
+  width: 230px;
+}
+.item_text a{
+  font-weight: bold;
+  letter-spacing: 1px;
+  line-height: 1.6;
+}
+.price{
+  display: block;
+  margin-top: 12px;
+}
+.catalog .price{
+  display: inline-block;
+}
+.selected{
+  border-color: #e5e5e5;
+}
+.banner{
+  /*margin-top: 100px;*/
+}
+/*HOVER EFFECT "VIEW ITEM"*/
+.product_img{
+  background-color: black;
+  position: relative;
+}
+.product_img:hover img{
+  opacity: .5;
+}
+.product_img{
+  /*opacity: 1;*/
+}
+
+.product_img:hover:after{
+  content: "View item";
+  position: absolute;
+  top: 50%;
+  left: 30%;
+  font-size: 22px;
+  font-family: "OpenSans";
+  color: rgb(241, 74, 88);
+  cursor: pointer;
+}
+.navbar_text{
+  margin-right: 5px;
+}
+.banner_bag{
+  text-align: center;
+  overflow: auto;
+  margin: 195px 0 260px;
+}
+.bag_title_heading{
+  font-size: 50px;
+}
+.bag_title_subheading{
+  margin-top: 30px;
+  color: #606060;
+}
+@media (min-width:768px) and (max-width:1024px){
+  .container{
+    padding: 0 26px;
+  }
+}
+  @media (min-width:375px) and (max-width:768px){
+    .container{
+      padding: 0 16px;
+    }
+}
+@media (max-width:375px){

@@ -1,0 +1,121 @@
+/*PRODUCT CART*/
+.main_title_page{
+  padding: 13px;
+  border-bottom: 1px solid #e5e5e5;
+  margin-bottom: 31px;
+}
+.shopping_cart_product{
+  padding-bottom: 50px;
+}
+.price{
+  margin:25px 0 25px 0;
+  text-align: center;
+}
+.shopping_cart_product, .product-cart_wrapper,.product-cart_info, .product-cart_operate, .list_product-cart{
+  display: flex;
+  flex-wrap: wrap;
+}
+.list_product-cart{
+  align-content: space-between;
+}
+.product-cart_wrapper{
+  flex-wrap: nowrap;
+}
+.product-cart_group_wrapper{
+  width: 100%;
+}
+.product-cart{
+  flex: 1 50%;
+}
+.product-cart_info{
+  flex-direction: column;
+}
+.product_img img{
+  vertical-align: bottom;
+  width: 240px;
+  height: 340px;
+}
+.first-col,.second-col{
+  /*flex: 1 50%;*/
+}
+.second-col{
+  margin-left: 26px;
+}
+.product-cart_attribute dd{
+  margin-left: 5px;
+}
+.product-cart_title{
+  margin: 15px 0 15px 0;
+  order: 1;
+}
+.product-cart_attribute{
+  margin-bottom: 20px;
+  line-height: 2.5;
+  order: 2;
+}
+.buy{
+  right: 0;
+  left: 0;
+}
+.buy span{
+  font-size: 24px;
+  font-weight: bold;
+}
+.cost{
+}
+.cost span{
+  display: block;
+  font-weight: bold;
+  margin-left: -32%;
+}
+.product-cart_operate{
+  justify-content: space-between;
+  padding-bottom: 50px;
+}
+.banner_bag{
+  display: none;
+}
+
+/*SHIPPING INFO*/
+.remove_from_cart{
+  font-size: 13px;
+  order: 3;
+  cursor: pointer;
+}
+.shipping_info{
+  border-top:1px solid #e5e5e5;
+  font-weight: bold;
+  background-color: #f7f7f7;
+  padding: 10px;
+  margin-bottom: 30px;
+}
+.shipping_info p{
+  font-size: 12px;
+  text-align: center;
+  letter-spacing: 2;
+  line-height: 2;
+}
+.empty_bag span{
+  cursor: pointer;
+  font-size: 13px;
+  font-weight: bold;
+}
+
+
+/*------ADAPTIVE-----------*/
+@media (min-width:375px) and (max-width:833px){
+  .shopping_cart_product,.product-cart_info, .list_product-cart{
+    display: block;
+  }
+  .product-cart_wrapper{
+    /*display: flex;*/
+  }
+}
+@media (max-width:375px){
+  .product-cart_operate{
+    display: inline-block;
+    padding-bottom: 0;
+  }
+  .cost{
+    margin-right: 84px;
+  }

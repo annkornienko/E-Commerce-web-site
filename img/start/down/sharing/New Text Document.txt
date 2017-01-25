@@ -1,0 +1,40 @@
+.Share {
+  font-size: 18px;
+  font-family: "OpenSans";
+  color: rgb(0, 0, 0);
+  font-weight: bold;
+  line-height: 3.611;
+  text-align: center;
+  -moz-transform: matrix( 0.99998966863498,0,0,1,0,0);
+  -webkit-transform: matrix( 0.99998966863498,0,0,1,0,0);
+  -ms-transform: matrix( 0.99998966863498,0,0,1,0,0);
+  position: absolute;
+  left: 596.294px;
+  top: 2801.001px;
+  z-index: 7;
+}
+.Legal_notice___________Privacy_policy__________ {
+  font-size: 12px;
+  font-family: "Roboto";
+  color: rgb(0, 0, 0);
+  font-weight: bold;
+  line-height: 5.417;
+  text-align: right;
+  position: absolute;
+  left: 965.938px;
+  top: 2867.49px;
+  z-index: 5;
+}
+
+.©_2010–2015__The_Template_Group_inc_ {
+  font-size: 12px;
+  font-family: "Roboto";
+  color: rgb(0, 0, 0);
+  font-weight: bold;
+  line-height: 5.417;
+  text-align: left;
+  position: absolute;
+  left: 59.937px;
+  top: 2867.49px;
+  z-index: 4;
+}

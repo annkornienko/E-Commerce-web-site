@@ -1,0 +1,12 @@
+.Women_________________Men_________________Handb {
+  font-size: 13px;
+  font-family: "OpenSans";
+  color: rgb(0, 0, 0);
+  font-weight: bold;
+  line-height: 5;
+  text-align: left;
+  position: absolute;
+  left: 59.85px;
+  top: 121.057px;
+  z-index: 44;
+}
