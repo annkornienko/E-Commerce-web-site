@@ -15,7 +15,6 @@
     if (current) {
       current.classList.remove("active");
     }
-
       frame.src = e.target.parentNode.dataset.src;
       fullImage.classList.add("fadeIn");
       this.classList.add("active");
